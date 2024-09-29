@@ -1,4 +1,4 @@
-#Sun Sep 29 09:55:21 WIB 2024
+#Sun Sep 29 13:08:06 WIB 2024
 base.0=/Users/mkpmobile/Documents/Bayu/Development/Flutter/slicingflutter/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/Users/mkpmobile/Documents/Bayu/Development/Flutter/slicingflutter/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.2=/Users/mkpmobile/Documents/Bayu/Development/Flutter/slicingflutter/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
