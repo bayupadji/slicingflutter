@@ -1,0 +1,1 @@
+ /Users/mkpmobile/Documents/Bayu/Development/Flutter/slicingflutter/.dart_tool/flutter_build/e94e45e827ec1cbde270e32c6e7b5187/native_assets.yaml: 
